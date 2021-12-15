@@ -8,22 +8,6 @@ Love to love to learn
 
 ---
 
-
-<details>
- <summary>
-  Menu
- </summary>
- </br>
- 
->####		[1. Information Gathering]()  
-
->####		[2. Vulnerability Analyses]()
-
- </details>
- 
----
-
-
 <details>
  <summary>
   Hacking Tools
