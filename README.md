@@ -30,14 +30,6 @@ Love to love to learn
  </summary>
  </br>
  
- 
-
-<details>
- <summary>
-  Menu
- </summary>
- </br>
- 
 >####		[1. Information Gathering]()  
 
 >####		[2. Vulnerability Analyses]()
