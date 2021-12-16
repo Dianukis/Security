@@ -8,6 +8,18 @@ Love to love to learn
 
 ---
 
+- Network security
+- Application security
+- Endpoint security
+- Data security
+- Identity management
+- Database and infrastructure security
+- Cloud security
+- Mobile security
+- Disaster recovery/business continuity planning
+- End-user education
+
+
 <details>
  <summary>
   Hacking Tools
