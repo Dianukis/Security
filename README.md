@@ -3,7 +3,7 @@
 
 <h3 align="center">
 
- ![image](https://user-images.githubusercontent.com/51442719/146284816-2c4a0068-19b0-4170-8021-c3bb2fec9d94.png)
+ <img src="https://thumbs.dreamstime.com/b/cybersecurity-career-onboarding-mobile-app-page-screen-concepts-analyst-engineer-architect-walkthrough-steps-graphic-196237087.jpg)">
 
 Knowledge is power   -
 Thirsty for more   -
